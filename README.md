@@ -6,14 +6,15 @@ With a very clean and straightforward UI, you will know all the members in no ti
 
 --------------------------------------------------------------------------
 
-![Screenshot](welcomescreen.png)
+![Screenshot](screenshots/welcomescreen.png)
 
 The Welcome Screen
 
-![Screenshot](mainscreen.png)
+![Screenshot](screenshots/mainscreen.png)
 
 The Main Screen (where the action happens)
 
 ![Screenshot](screenshots/statsscreen.png)
 
 The Stats Screen (where you can view your stats)
+
