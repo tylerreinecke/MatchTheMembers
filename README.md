@@ -6,11 +6,10 @@ With a very clean and straightforward UI, you will know all the members in no ti
 
 --------------------------------------------------------------------------
 
-![Screenshot](screenshots/welcomescreen.png)
-
+<img width="465" alt="welcomescreen" src="https://user-images.githubusercontent.com/12488462/52511595-90cdeb80-2bb5-11e9-8b08-a377251c5771.png">
 The Welcome Screen
 
-![Screenshot](screenshots/mainscreen.png)
+
 
 The Main Screen (where the action happens)
 
