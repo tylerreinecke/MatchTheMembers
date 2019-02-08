@@ -187,7 +187,7 @@ class MainScreenViewController: UIViewController {
         turnSeconds = 5
         turnLabel.text = "\(turnSeconds)"
         if timeOut {
-            addToPrevThree(result: "Ran out of time 🤦‍♂️")
+            addToPrevThree(result: "No response 🤦‍♂️")
             for button in choices {
                 button.backgroundColor = .red
             }
