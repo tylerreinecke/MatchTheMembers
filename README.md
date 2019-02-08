@@ -6,11 +6,11 @@ With a very clean and straightforward UI, you will know all the members in no ti
 
 --------------------------------------------------------------------------
 
-![Screenshot](screenshots/welcomescreen.png)
+![Screenshot](welcomescreen.png)
 
 The Welcome Screen
 
-![Screenshot](screenshots/mainscreen.png)
+![Screenshot](mainscreen.png)
 
 The Main Screen (where the action happens)
 
